@@ -57,7 +57,7 @@ memberlimit = 0
 cr = 'VINZ CHAT BOT V 99.32'
 
 /*
-*/
+*//Free api by vinz ( kl invalid jangan protes)
 const TobzKey = 'BotWeA'
 const VhtearKey = '1BlnApiIkyPake' 
 const TechApi = '5BNIDH-1T0kPj-gWqG6q-sHtuHA-AWBSgZ'
